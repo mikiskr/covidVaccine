@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+h1{
+	color:#000080;
+	text-align:center;
+}
+p{
+	font-size:130%;
+	color:#000080;
+	
+}
+#intro{
+	background-color:#ff8080;
+}
+.first{
+	font-size:200%;
+}
+#intro .first{
+	color:#ccdee1;
+	
+}
+#intro .first b{
+	color:#000080;
+}
+table{
+	text-align:center;
+	border-collapse:collapse;
+}
+table th{
+	text-align:center;
+	background-color:#79a2ac;
+	color:#000000;
+	padding:4px 30px 4px 8px;
+}
+
+table td{
+	text-align:center;
+	border:1px solid #e3e3e3;
+	padding: 4px 8px;
+	
+}
+
+table tr:nth-child(odd) td{
+	background-color:#dad8f1;
+}
